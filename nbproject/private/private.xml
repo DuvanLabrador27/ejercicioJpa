@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/web/index.jsp</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DAO/JugadorJpaController.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DAO/EstadisticasEquipoJpaController.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DAO/EquipoJpaController.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/web/views/CrearEquipo.jsp</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DAO/exceptions/PreexistingEntityException.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DAO/exceptions/IllegalOrphanException.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DTO/EstadisticasEquipo.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Controlador/ControladorJugador.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DAO/exceptions/NonexistentEntityException.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Controlador/ControladorEquipo.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/web/views/CrearJugador.jsp</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/web/views/listarJugadoresEquipo.jsp</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DTO/PartidoPK.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/web/views/listaEquipos.jsp</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Util/Conexion.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DTO/Partido.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DTO/Jugador.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DTO/Equipo.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Negocio/CopaAmerica.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/src/java/Modelo/DAO/PartidoJpaController.java</file>
+            <file>file:/C:/Users/duvan/Desktop/estadísticas_futbol/web/views/listarJugadores.jsp</file>
+        </group>
+    </open-files>
+</project-private>
